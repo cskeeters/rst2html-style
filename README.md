@@ -2,7 +2,7 @@
 
 This is a css stylesheet for making better looking html output from [reStructuredText](http://docutils.sourceforge.net/rst.html) and [rst2html](http://docutils.sourceforge.net/docs/user/tools.html#rst2html-py).
 
-Take a look at [this sample](http://bitbucket.org/cskeeters/rst2html-style/src/tip/doc.html).
+Take a look at [this sample](http://cskeeters.bitbucket.org/rst2html-style/doc.html).
 
 # Pygments Hack
 
